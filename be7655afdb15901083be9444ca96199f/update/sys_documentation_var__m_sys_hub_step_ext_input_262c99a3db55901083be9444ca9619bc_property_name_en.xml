@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="property_name" label="property_name" language="en" table="var__m_sys_hub_step_ext_input_262c99a3db55901083be9444ca9619bc">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>property_name</element>
+            <help/>
+            <hint/>
+            <label>property_name</label>
+            <language>en</language>
+            <name>var__m_sys_hub_step_ext_input_262c99a3db55901083be9444ca9619bc</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>BL62F3EN</sys_created_by>
+            <sys_created_on>2020-06-15 14:09:31</sys_created_on>
+            <sys_id>2e2c1967db55901083be9444ca9619ec</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>property_name</sys_name>
+            <sys_package display_value="NeedIt Spoke" source="x_463935_needit_sp">be7655afdb15901083be9444ca96199f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt Spoke">be7655afdb15901083be9444ca96199f</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_input_262c99a3db55901083be9444ca9619bc_property_name_en</sys_update_name>
+            <sys_updated_by>BL62F3EN</sys_updated_by>
+            <sys_updated_on>2020-06-15 14:09:31</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

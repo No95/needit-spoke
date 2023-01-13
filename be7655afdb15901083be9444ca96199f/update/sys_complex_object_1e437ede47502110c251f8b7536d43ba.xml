@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD5a437ede99502110fdfd783e9730feba</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>be7655afdb15901083be9444ca96199f</scope_name>
+        <serialized_content>{"FlowDesigner:FD5a437ede99502110fdfd783e9730feba":{"code":"Integer","code.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Integer\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"integer\",\"mapped\":\"{\\\"code\\\":\\\"{{step[f598851d-9e56-42cb-9afc-ecdfe956a2f6].status_code}}\\\"}\",\"default_value\":\"\",\"label\":\"Code\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"40\"}"},"message":"String","message.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"mapped\":\"{\\\"message\\\":\\\"{{step[f598851d-9e56-42cb-9afc-ecdfe956a2f6].status_code}}-{{step[f598851d-9e56-42cb-9afc-ecdfe956a2f6].error_code}}-{{step[f598851d-9e56-42cb-9afc-ecdfe956a2f6].error_message}}\\\"}\",\"default_value\":\"\",\"label\":\"Message\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"4000\"}"}},"FlowDesigner:FD5a437ede99502110fdfd783e9730feba.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":null,\"label\":\"Action Status\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"uiUniqueId\":\"c07d96c8-b37d-4673-900f-0e5ea81a5f5b\",\"uiTypeLabel\":\"\",\"co_type_name\":\"FD5a437ede99502110fdfd783e9730feba\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":null,\"uiType\":\"object\",\"order\":\"2\",\"max_length\":\"-1\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>BL62F3EN</sys_created_by>
+        <sys_created_on>2023-01-12 11:10:43</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1e437ede47502110c251f8b7536d43ba</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FD5a437ede99502110fdfd783e9730feba</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt Spoke" source="x_463935_needit_sp">be7655afdb15901083be9444ca96199f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">be7655afdb15901083be9444ca96199f</sys_scope>
+        <sys_update_name>sys_complex_object_1e437ede47502110c251f8b7536d43ba</sys_update_name>
+        <sys_updated_by>BL62F3EN</sys_updated_by>
+        <sys_updated_on>2023-01-12 11:10:43</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>
